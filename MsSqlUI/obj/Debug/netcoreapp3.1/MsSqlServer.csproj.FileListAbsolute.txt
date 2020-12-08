@@ -1,0 +1,10 @@
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/bin/Debug/netcoreapp3.1/MsSqlServer
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/bin/Debug/netcoreapp3.1/MsSqlServer.dll
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/bin/Debug/netcoreapp3.1/MsSqlServer.pdb
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.csprojAssemblyReference.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.AssemblyInfoInputs.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.AssemblyInfo.cs
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.csproj.CoreCompileInputs.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.dll
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/obj/Debug/netcoreapp3.1/MsSqlServer.pdb
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/MsSqlServer/bin/Debug/netcoreapp3.1/appsettings.json

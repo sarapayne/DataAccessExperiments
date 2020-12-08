@@ -1,0 +1,17 @@
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/bin/Debug/netcoreapp3.1/DataAccessLibrary.dll
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/bin/Debug/netcoreapp3.1/DataAccessLibrary.pdb
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.csprojAssemblyReference.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.AssemblyInfoInputs.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.AssemblyInfo.cs
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.csproj.CoreCompileInputs.cache
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.dll
+/mnt/LinuxApps/src/DataAccessCourse/DataAccessCourseV2/DataAccessLibrary/obj/Debug/netcoreapp3.1/DataAccessLibrary.pdb
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.deps.json
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.dll
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\bin\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfoInputs.cache
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.AssemblyInfo.cs
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.dll
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.pdb
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csprojAssemblyReference.cache
+F:\source\Uni\SystemAnalysis\Team2-SystemsAnalysisDesign-500084_A20_T1-\DataAccessExperiments\DataAccessLibrary\obj\Debug\netcoreapp3.1\DataAccessLibrary.csproj.CoreCompileInputs.cache
